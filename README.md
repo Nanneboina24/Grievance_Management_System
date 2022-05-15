@@ -1,4 +1,4 @@
-# Student_Grievance_System
+# Grievance_Management_System
 C#(ASP.NET) Application
 
 # Description 
