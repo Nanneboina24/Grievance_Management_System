@@ -10,6 +10,6 @@ BACK END	:	MSSQL<br />
 FRAMEWORK : ASP.NET<br />
 IDE       : VISUAL STUDIO<br />
 
-# Develop by..,
+# Develop by..
 Nanneboina Sumanth
 
